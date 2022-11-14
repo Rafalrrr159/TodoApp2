@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextFieldsStyle">
+        <item name="android:background">@color/primaryBlueLight</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">@dimen/text_field_size</item>
+        <item name="android:padding">@dimen/task_item_padding</item>
+    </style>
+</resources>
